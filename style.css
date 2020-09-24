@@ -1,0 +1,130 @@
+/* *********************************Index css***************** */
+/* **************************************************************** */
+
+/* navgation logo link */
+.navbar-brand{
+  background-color:rgb(163, 126, 147);
+  font-weight: 600;
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* navigation link on nav bar */
+#navbarNav{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+}
+
+/* background image */
+body {
+  /* The image used */
+  background: url("./images/backgroundpicture.jpg") no-repeat center center fixed;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+background-size: cover;
+-moz-background-size:cover;
+} 
+/* main container on index.html */
+#indexcontent{
+  margin-top: 5%;
+  height: 100%;
+  padding-left: 5%;
+  padding-right: 20%;
+  padding-bottom: 20%;
+  float: left;
+}
+
+
+/*  car header for index, contact and porfolio */
+.card-header {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+  color: rgb(163, 126, 147);
+  background-color:white;
+}
+ /* paragraph for index file */
+p{
+  font-weight: 400;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* image for index file  */
+#indexImage{
+  clear: right;
+  float: left;
+  width: 200px;
+  height: 200x;
+  margin-right: 5% ; 
+}
+/* navigation links for index, contact,portfolo */
+#pro-link{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(163, 126, 147);
+  float:right;
+}
+
+/* navigation links for index, contact,portfolo */
+#pro-link:hover{
+  color: darkslateblue;
+}
+
+/* footer for contact, index & portfolio */
+#footer {
+  background: rgb(163, 126, 147);
+  color: wheat;
+  line-height: 20px;
+  padding: 0 20px;
+}
+/* footer for contact, index & portfolio */
+#footer-link:hover{
+  color: wheat;
+}
+
+/* Contact style sheet */
+/* ************************************************************************** */
+/* ************************************************************************** */
+
+/* main content on contact file */
+#contactcontent{
+  float: left;
+  padding-right: 20%;
+  padding-left:5%;
+  padding-top:5% 
+}
+
+/* form content on contact file */
+#formcontent{
+  font-weight: 600;
+  font-size: 22px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+/* submit button on contact file */
+#submit-button{
+  background-color: rgb(163, 126, 147);
+  color: black;
+  margin-top: 25px;
+  padding: 10px;
+  border: wheat;
+}
+
+
+/* **************************************Portfolio CSS********************** */
+/* ************************************************************************* */
+/* main content on portfolio file */
+#content{
+  margin-top: 2%;
+  height: 100%;
+  padding-left: 5%;
+  padding-right: 20%;
+  padding-bottom: 20%;
+  float: left;
+}
+/*  portfolio file images */
+#profile_img{
+  float:left;
+  width:100%;
+  height:100%;
+  padding-bottom: 20px;  
+}
