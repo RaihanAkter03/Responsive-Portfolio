@@ -31,4 +31,6 @@
 
 16. Pseudo classes have  used .
 
-17. Different color have used . 
+17. Different color have used .
+
+18. There are two link added on About me article.
