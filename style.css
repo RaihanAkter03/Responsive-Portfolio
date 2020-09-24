@@ -1,6 +1,7 @@
 /* *********************************Index css***************** */
 /* **************************************************************** */
 
+
 /* navgation logo link */
 .navbar-brand{
   background-color:rgb(163, 126, 147);
@@ -17,16 +18,16 @@
 
 /* background image */
 body {
-  /* The image used */
-  background: url("./images/backgroundpicture.jpg") no-repeat center center fixed;
+background: url("./images/backgroundpicture.jpg") no-repeat center center fixed;
 -webkit-background-size:cover;
 -moz-background-size:cover;
 background-size: cover;
 -moz-background-size:cover;
 } 
+
 /* main container on index.html */
 #indexcontent{
-  margin-top: 5%;
+  margin-top: 2%;
   height: 100%;
   padding-left: 5%;
   padding-right: 20%;
@@ -82,15 +83,15 @@ p{
 }
 
 /* Contact style sheet */
-/* ************************************************************************** */
-/* ************************************************************************** */
+/* ******************************************************************** */
+/* ******************************************************************** */
 
 /* main content on contact file */
 #contactcontent{
   float: left;
   padding-right: 20%;
   padding-left:5%;
-  padding-top:5% 
+  margin-top: 2%;
 }
 
 /* form content on contact file */
