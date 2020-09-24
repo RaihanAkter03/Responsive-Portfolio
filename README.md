@@ -20,9 +20,15 @@
 10. Each page have valid and correct HTML.
 
 11. Contained personalized information. (bio, name, images, links to social media, etc.)
+
 12. Properly utilize Bootstrap components and grid system.
+
 13. if you click on Raihan Akter name from nav bar from any other page it will navigate to the home page . 
+
 14. all page have same navigation header and sticky footer.
+
 15. contact page name , email address and message are required fields. also validate the email address . if you write worng email address it will show error message after click submit button .
-16. Pseudo classes have  used . 
+
+16. Pseudo classes have  used .
+
 17. Different color have used . 
